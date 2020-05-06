@@ -1,4 +1,4 @@
-# sysmon-config | A Sysmon configuration file for everybody to fork #
+# sysmon-config | A Sysmon configuration file
 
 This is a Microsoft Sysinternals Sysmon configuration file template with default high-quality event tracing.
 
